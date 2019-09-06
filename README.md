@@ -54,11 +54,14 @@ tu  [可不填]
 
 [beta.fateso.com][3]
 
+### 详细说明 ↓
 
+[fateso.com][4]
 
   [1]: https://i.cnm.im/2019/09/04/5d6fc0381aae1.png
-  
+  [2]: https://cnm666.oss-cn-hongkong.aliyuncs.com/2019/09/04/5d6fad6805129.png
   [3]: http://beta.fateso.com/
+  [4]: https://fateso.com/
 
 ## 原主题配置：
 
